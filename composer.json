@@ -1,0 +1,10 @@
+{
+    "name": "stone/open_api_sdk",
+    "description": "外部合作SDK",
+    "autoload": {
+        "psr-4": {
+            "Stone\\SDK\\" : "src/"
+        }
+    },
+    "require": {}
+}
